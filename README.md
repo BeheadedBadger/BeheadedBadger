@@ -1,8 +1,8 @@
-👋 Hi, I’m Zarra!
-🔍 I’m interested in coding, nature, biology, art and animals.
-🌱 I’m always learning more about my interests.
-💞️ I’m looking to collaborate on projects.
-📫 You can reach me at ZarradeRuijter@gmail.com.
+👋 Hi, I’m Zarra! \
+🔍 I’m interested in coding, nature, biology, art and animals. \
+🌱 I’m always learning more about my interests. \
+💞️ I’m looking to collaborate on projects. \
+📫 You can reach me at ZarradeRuijter@gmail.com. 
 
 
 <!---
